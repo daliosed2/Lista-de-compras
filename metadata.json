@@ -1,0 +1,5 @@
+{
+  "name": "Lista Smart - Presupuesto con IA",
+  "description": "Una aplicación inteligente para gestionar listas de compras, normalizar productos y estimar presupuestos en USD usando IA.",
+  "requestFramePermissions": []
+}
